@@ -1,0 +1,52 @@
+
+
+.box{
+    background-color: #006cfa;
+    height: 70px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid white;
+    width: 100%;
+    color: white;
+    padding: 15px;
+}
+
+
+.row p{
+    line-height: 10px;
+    background-color: #00e165;
+    display: inline;
+    padding: 15px 20px;
+}
+
+.row p:last-child{
+    padding: 15px 292px;
+}
+
+.box-2 {
+    background-color: #006cfa;
+    max-height: 100px;
+    line-height: 40px;
+    border: 1px solid white;
+    width: 100%;
+    color: white;
+    padding: 15px;
+}
+
+.row span {
+    line-height: 10px;
+    background-color: #00e165;
+    display: inline;
+    padding: 15px 187px;
+}
+
+
+
+
+
+
+
+
+
+
+
